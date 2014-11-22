@@ -1,0 +1,8 @@
+name: typeof
+version: 0.0.1
+author: Karan Goel
+description: typeOf in Dart
+homepage: https://github.com/karan/typeof.dart
+documentation: https://github.com/karan/typeof.dart
+dependencies:
+  unittest: '>=0.11.1+1 <0.12.0'
