@@ -8,7 +8,7 @@ typeOf in Dart.
 In your `pubspec.yaml`, add:
 
     dependencies:
-      typeof: ">=0.01"
+      typeof: ">=0.0.1"
 
 ### 2. Install it
 
